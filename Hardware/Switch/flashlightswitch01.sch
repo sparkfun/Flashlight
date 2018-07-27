@@ -31948,7 +31948,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="FRAME1" library="SparkFun-Aesthetics" deviceset="FRAME-LETTER" device=""/>
 <part name="LOGO1" library="SparkFun-Aesthetics" deviceset="OSHW-LOGO" device="S"/>
 <part name="D1" library="SparkFun-LED" deviceset="LED" device="5MM-KIT"/>
-<part name="R1" library="SparkFun-Resistors" deviceset="RESISTOR" device="AXIAL-0.3-KIT" value=" "/>
+<part name="R1" library="SparkFun-Resistors" deviceset="RESISTOR" device="AXIAL-0.3-KIT" value="330"/>
 <part name="LOGO2" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_FLAME" device=".1_INCH"/>
 <part name="H1" library="SparkFun-Hardware" deviceset="STAND-OFF" device=""/>
 <part name="H2" library="SparkFun-Hardware" deviceset="STAND-OFF" device=""/>
@@ -31960,6 +31960,11 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <sheet>
 <plain>
 <text x="167.64" y="7.62" size="3.81" layer="94">Michelle Shorter</text>
+<text x="43.18" y="134.62" size="5.08" layer="97" font="vector">SparkFun Flashlight Soldering Kit</text>
+<text x="134.62" y="91.44" size="1.27" layer="97">LED (Light Emitting Diode - This is your light.</text>
+<text x="137.16" y="106.68" size="1.27" layer="97">Resistor - This limits the current your LED recieves</text>
+<text x="101.6" y="124.46" size="1.27" layer="97">Switch - This completes your circuit</text>
+<text x="91.44" y="91.44" size="1.27" layer="97">Battery - This powers your circuit</text>
 </plain>
 <instances>
 <instance part="BT1" gate="G$1" x="96.52" y="99.06" rot="R270"/>
@@ -31968,12 +31973,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <instance part="LOGO1" gate="G$1" x="236.22" y="45.72"/>
 <instance part="D1" gate="G$1" x="132.08" y="93.98"/>
 <instance part="R1" gate="G$1" x="132.08" y="106.68" rot="R90"/>
-<instance part="LOGO2" gate="G$1" x="215.9" y="38.1"/>
+<instance part="LOGO2" gate="G$1" x="183.642" y="47.752"/>
 <instance part="H1" gate="G$1" x="236.22" y="25.4"/>
 <instance part="H2" gate="G$1" x="243.84" y="25.4"/>
 <instance part="S2" gate="1" x="106.68" y="116.84"/>
 <instance part="LOGO4" gate="G$1" x="149.86" y="35.56"/>
-<instance part="LOGO3" gate="G$1" x="149.86" y="48.26"/>
+<instance part="LOGO3" gate="G$1" x="151.13" y="35.306"/>
 </instances>
 <busses>
 </busses>
