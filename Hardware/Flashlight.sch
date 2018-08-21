@@ -32090,7 +32090,7 @@ current your LED recieves</text>
 <text x="68.58" y="93.98" size="1.27" layer="97" font="vector">Battery - This powers 
 your circuit
 CR2032 - 3.0V</text>
-<text x="236.982" y="6.35" size="3.81" layer="94">v02</text>
+<text x="236.982" y="6.35" size="3.81" layer="94">v10</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
@@ -32110,7 +32110,7 @@ CR2032 - 3.0V</text>
 </instance>
 <instance part="H3" gate="G$1" x="236.22" y="30.48"/>
 <instance part="H4" gate="G$1" x="243.84" y="30.48"/>
-<instance part="LOGO4" gate="G$1" x="134.62" y="66.04"/>
+<instance part="LOGO4" gate="G$1" x="149.86" y="35.56"/>
 </instances>
 <busses>
 </busses>
