@@ -17,8 +17,8 @@ Repository Contents
 Documentation
 --------------
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/flashlight-kit?_ga=2.241539332.705553563.1539292718-2027691345.1532656833)** - Basic hookup guide for the Flashlight Kit.
-**[Schematic](https://cdn.sparkfun.com/assets/6/6/7/d/d/SparkFun_Basic_Flashlight.pdf)** - Schematic for the Flashlight Kit.
-**[Eagle Files](https://cdn.sparkfun.com/assets/e/c/5/e/0/SparkFun_Basic_Flashlight.zip)** - Eagle Files for the Flashlight Kit.
+* **[Schematic](https://cdn.sparkfun.com/assets/6/6/7/d/d/SparkFun_Basic_Flashlight.pdf)** - Schematic for the Flashlight Kit.
+* **[Eagle Files](https://cdn.sparkfun.com/assets/e/c/5/e/0/SparkFun_Basic_Flashlight.zip)** - Eagle Files for the Flashlight Kit.
 
 
 License Information
