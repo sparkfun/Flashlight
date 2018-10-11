@@ -16,7 +16,7 @@ Repository Contents
 
 Documentation
 --------------
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/)** - Basic hookup guide for the Flashlight Kit.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/flashlight-kit?_ga=2.241539332.705553563.1539292718-2027691345.1532656833)** - Basic hookup guide for the Flashlight Kit.
 
 
 License Information
