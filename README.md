@@ -5,7 +5,7 @@ Basic Flashlight Kit
 SparkFun Flashlight Kit
 ============================
 
-[![SparkFun Flashlight Kit](https://cdn.sparkfun.com//assets/parts/1/3/1/5/4/14877-01.jpg)  
+[![SparkFun Flashlight Kit](https://cdn.sparkfun.com//assets/parts/1/3/1/5/4/14877-SparkFun_Basic_Flashlight_Soldering_Kit-01.jpg)  
 *SparkFun Flashlight Kit (DEV-14877)*](https://www.sparkfun.com/products/14877)
 
 The SparkFun Flashlight kit is a basic soldering kit designed to teach the basics of soldering and electronics.
