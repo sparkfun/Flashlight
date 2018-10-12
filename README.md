@@ -9,6 +9,7 @@ The SparkFun Flashlight kit is a basic soldering kit designed to teach the basic
 Repository Contents
 -------------------
 * **/Hardware** - Eagle design files (.brd, .sch)
+* **/Production** - Gerber files and production documentation
 
 Documentation
 --------------
