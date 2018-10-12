@@ -1,7 +1,3 @@
-# Flashlight
-Basic Flashlight Kit
-
-
 SparkFun Flashlight Kit
 ============================
 
